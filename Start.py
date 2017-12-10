@@ -11,8 +11,7 @@ def get_comments():
         'page': '1',
         'size': '5',
         'reply_comment_id': '',
-        'flag': '',
-        'App_id': '135991'
+        'flag': ''
     }
     cookies = dict(
         UM_distinctid='15f7beee3d21c-03c051c56b6b7c-12666d4a-1fa400-15f7beee3d3321',
